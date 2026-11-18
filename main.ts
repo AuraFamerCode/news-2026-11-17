@@ -1,5 +1,7 @@
 // 17 November 2026, world news in one image: entry.png sits beside this file and is copied to the
 // grader's /output/entry.png. Node 22, standard library only, no network.
+// The image is pre-rendered, so the copy is byte for byte the committed file and the grader's two
+// runs always agree.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
